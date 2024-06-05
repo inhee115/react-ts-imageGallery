@@ -1,0 +1,5 @@
+영상 링크
+
+How to Create a React Typescript Project step by step Tutorial
+
+https://www.youtube.com/watch?v=5l9pZcjXpmo
